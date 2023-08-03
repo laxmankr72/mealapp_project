@@ -1,9 +1,13 @@
 Meals-App
+
 This project is a vanilla JavaScript application that uses TheMealDB API to search and display meals. Users can search for meals and add them     to their favourites list. The application also has a meal detail page where users can view more information about a particular meal.
+
 Features
+
 Home Page Search any meal from the API and display the search results on the frontend (as you type, the search results should update). Each search result of the meal should have a favourite button, clicking on which the meal should be added to “My favourite meals” (a list). On clicking any particular search result (any meal), open a new page with more information about that meal (meal page).
 
 Meal Detail Page
+
 Should show information about the meal like its name, photo, instructions, etc.
 My favourite meals Page
 Display a list of all the favourite meals.
